@@ -1,5 +1,5 @@
 body {
-    background-color: #FEE5D4;
+    background-color: #F0F0F0;
 }
 #nav-bar-tags>a {
     margin-right: 25px; /* Adjust this value to set the space between anchor tags */
@@ -14,8 +14,8 @@ body {
 }
 
 #current-page-button {
-    background-color: #F0F0F0;
-    color: #FFEEE2;
+    background-color: #000000;
+    color: #ffffff;
     padding: 18px 28px;
     border-radius: 30px;
     text-decoration: none;
@@ -26,7 +26,7 @@ body {
 .Customers,
 .Items {
     display: inline-block;
-    color: #B05200;
+    color: #000000;
     padding: 18px 28px;
     border-radius: 30px;
     text-decoration: none;
@@ -37,15 +37,15 @@ body {
 .Orders:hover,
 .Customers:hover,
 .Items:hover {
-    background-color: #F0F0F0;
-    color: #FEE5D4;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 footer {
     height: 110px;
     width: 100%;
-    color: #FEE5D4;
-    background-color: #B05200;
+    color: #ffffff;
+    background-color: #454545;
     text-align: center;
 }
 footer>p {
@@ -55,7 +55,7 @@ footer>p {
 #main-section {
     width: 70vw;
     height: 70vh;
-    background-color: #FFF4ED;
+    background-color: #E3E3E3;
     position: relative;
     text-align: center;
     left: 0;
@@ -83,10 +83,10 @@ footer>p {
 }
 
 #card1,#card2,#card3,#card4 {
-    height: 140px;
+    height: 100px;
     position: relative;
-    border: 3px solid #B05200;
-    background-color: #FEE5D4;
+    border: 3px solid #000000;
+    background-color: #DDDDDD;
     border-radius: 20px;
     text-align: center;
 }
@@ -105,10 +105,10 @@ footer>p {
 }
 
 #middle-card {
-    width: 300px;
-    height: 180px;
-    border: 3px solid #B05200;
-    background-color: #FEE5D4;
+    width: 250px;
+    height: 150px;
+    border: 3px solid #000000;
+    background-color: #DDDDDD;
     border-radius: 20px;
     position: absolute;
     text-align: center;
